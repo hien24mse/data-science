@@ -1,2 +1,4 @@
 # data-science
-This is a DS project.
+This is my portfolio DS project.
+# background
+Look at X, Y, Z
